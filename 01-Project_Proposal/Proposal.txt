@@ -1,0 +1,27 @@
+Dungeon Run
+Devyn Caterer | T00527623 | Comp 3160
+Zacary Pattison | T00528583 | Comp 3160
+GitHub Account: VoidHauler 
+Dungeon Run is a GPS based dungeon crawling experience. You play as the character and fight monsters to level up,
+fight through epic dungeons, and defeat epic bosses. Using Augmented Reality, you will swipe your screen to attack
+and parry enemy strikes. Enemies will drop items, gold and level up your character to prepare you for the great
+evils at the bottom of dungeons.
+
+Project Plan:
+- Functional User Interface for Normal to Large size screens of any dpi. Small screens not supported. (February 3)
+- GPS distance monitor (February 8)
+- Local Database (January 30) 
+- Augmented Reality Dungeon (February 27)
+- Places of Interest based dungeon generation (Maps API) (February 29)
+- Player Inventory (February 30)
+- Unique Items (March 13)
+- Safe Zones with shops and unique NPC’s (March 20)
+- Quests! (March 25)
+- Push Notifications and Google Play Games integration (March 30)
+
+Timeline:
+Initial Release with working UI, GPS, Database, Augmented Reality, Maps integration and Persistent Inventory will be March 1. 
+Polishing and adding of features that are extraneous to the main game will be added after March.
+Pricing: 
+Initial Beta Version will be offered for free with missing features. Pro version (with all the features) will be 1-4$ 
+depending on interest of free initial release.
